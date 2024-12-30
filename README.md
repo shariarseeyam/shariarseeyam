@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi visitors 👋
 
 🔭 I’m currently working on building Python projects.
 🌱 I’m currently learning advanced Python libraries like Pandas, NumPy, and Flask.
